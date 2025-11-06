@@ -1,0 +1,1 @@
+This is my second sentence after deleting my first in MyStory1.txt
